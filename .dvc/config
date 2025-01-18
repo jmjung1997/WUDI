@@ -1,0 +1,4 @@
+[core]
+    remote = datas
+['remote "datas"']
+    url = C:\jm_dvc\datas\dvc-test-remote
